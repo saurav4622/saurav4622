@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm currently a graduated as a BCA student with a passion for AI/ML, web development, and ethical hacking.<br>🚀 I'm building real-world projects using technologies like Python, MERN Stack, React.js, and Streamlit.<br>🧠 I'm also exploring cutting-edge fields like Alzheimer’s Disease Detection using Deep Learning, and integrating AI with Blockchain in web apps.<br>💡 I love learning new tools and frameworks, solving real problems with tech, and collaborating on meaningful projects.
+🎓  Recently graduated as a BCA student with a passion for AI/ML, web development, and ethical hacking.<br>🚀 I'm building real-world projects using technologies like Python, MERN Stack, React.js, and Streamlit.<br>🧠 I'm also exploring cutting-edge fields like Alzheimer’s Disease Detection using Deep Learning, and integrating AI with Blockchain in web apps.<br>💡 I love learning new tools and frameworks, solving real problems with tech, and collaborating on meaningful projects.
 
 
 # 💻 Tech Stack:
